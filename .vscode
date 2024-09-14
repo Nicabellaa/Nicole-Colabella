@@ -1,1 +1,5 @@
-
+git add .
+git commit -m "dediting"
+{
+    "liveServer.settings.port": 5504
+}
